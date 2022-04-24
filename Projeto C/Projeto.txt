@@ -1,0 +1,11 @@
+Grupo - Lucas Bomfim Fernandes
+
+Tema: Sistema de Cinema (login,registro e alocação de cadeiras)
+
+Modulos:
+Usuario.h( login,cadastro,perfil,exclusão,alteração)
+Filmes.h ( filmes no catalogo )
+Ingresso.h ( compra de ingresso,consulta )
+layout.h (layout simples com caracteres)
+
+* Ainda estou no inicio do projeto, dependendo da organização talvez tenham mais modulos

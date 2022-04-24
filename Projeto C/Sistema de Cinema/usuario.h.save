@@ -1,0 +1,10 @@
+#ifndef uruario_h
+#define usuario_h
+
+int logincadastro ();
+
+
+
+
+
+#endif //usuario.h

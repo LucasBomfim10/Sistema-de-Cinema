@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1642704693 source:c:\users\lucas\desktop\projeto c\sistema de cinema\layout.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"layout.h"
+
+1641905510 c:\users\lucas\desktop\projeto c\sistema de cinema\layout.h
+
+1644234802 source:c:\users\lucas\desktop\projeto c\sistema de cinema\main.c
+	<stdio.h>
+	<stdlib.h>
+	"layout.h"
+	"usuario.h"
+	"ingresso.h"
+
+1642701837 c:\users\lucas\desktop\projeto c\sistema de cinema\usuario.h
+
+1644233137 source:c:\users\lucas\desktop\projeto c\sistema de cinema\usuario.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"usuario.h"
+
+1642700165 c:\users\lucas\desktop\projeto c\sistema de cinema\ingresso.h
+
+1644234791 source:c:\users\lucas\desktop\projeto c\sistema de cinema\ingresso.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ingresso.h"
+	"usuario.h"
+
